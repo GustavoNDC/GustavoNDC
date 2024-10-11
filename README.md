@@ -7,7 +7,7 @@
 
 <h2>Skills</h2>
 
-<div class="skills-container" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+<div class="skills-container" style="display: flex; justify-content: space-around; text-align: center;">
   <!-- Main Skills -->
   <div class="skills-main" style="flex: 1; padding: 10px;">
     <h3>Main Skills</h3>
